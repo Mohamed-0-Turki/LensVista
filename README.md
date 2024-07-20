@@ -1,8 +1,4 @@
-Here's a suggested README file for the LensVista project:
-
----
-
-# LensVista: Your Vision, Our Focus
+# LensVista
 
 LensVista is an e-commerce website for selling eyeglasses, designed with modern web development practices and a robust architecture.
 
