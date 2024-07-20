@@ -3,7 +3,7 @@ const MAIL_HOST = 'smtp.gmail.com';
 
 const MAIL_USERNAME = 'mohamedt4438@gmail.com';
 
-const MAIL_PASSWORD = 'hisz eljx cgoh mycf';
+const MAIL_PASSWORD = '';
 
 const MAIL_PORT = 465;
 
