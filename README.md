@@ -12,8 +12,6 @@ LensVista is an e-commerce website for selling eyeglasses, designed with modern 
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Object-Oriented PHP for modular and reusable code
@@ -63,26 +61,5 @@ LensVista is an e-commerce website for selling eyeglasses, designed with modern 
     php -S localhost:8000 -t public
     ```
 3. Open your browser and navigate to `http://localhost:8000`.
-
-## Contributing
-1. Fork the repository.
-2. Create your feature branch:
-    ```bash
-    git checkout -b feature/your-feature-name
-    ```
-3. Commit your changes:
-    ```bash
-    git commit -m 'Add some feature'
-    ```
-4. Push to the branch:
-    ```bash
-    git push origin feature/your-feature-name
-    ```
-5. Open a pull request.
-
-## License
-This project is licensed under the MIT License.
-
----
 
 For more details, visit the [LensVista GitHub repository](https://github.com/Mohamed-0-Turki/LensVista).
